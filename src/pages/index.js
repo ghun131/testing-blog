@@ -1,8 +1,5 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import Helmet from 'react-helmet'
-
-// import '../css/index.css'; // add some style if you want!
 
 export default function Index({ data }) {
   const { edges: posts } = data.allMarkdownRemark
@@ -14,7 +11,7 @@ export default function Index({ data }) {
           return (
             <div className="blog-post-preview" key={post.id}>
               <h1>
-                <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
+                <Link style={{color:"#373777"}} to={post.frontmatter.path}>{post.frontmatter.title}</Link>
               </h1>
               <h2>{post.frontmatter.date}</h2>
               <p>{post.excerpt}</p>

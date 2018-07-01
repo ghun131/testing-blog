@@ -4,7 +4,7 @@ date: "2018-02-13"
 title: "Local Weather App sum up"
 ---
 
-#Key things acquire from this project:
+###Key things acquire from this project:
 
 1. I can use JQuery to change CSS
 2. There are as many JQuery methods as JavaScript methods or HTML
