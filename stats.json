@@ -41,8 +41,8 @@
       "path---principle-of-beautiful-web-design-day-7-aeb36334df4ea84a4c0c.js.map"
     ],
     "path---index": [
-      "path---index-a7851da1eff7c0ca7c74.js",
-      "path---index-a7851da1eff7c0ca7c74.js.map"
+      "path---index-1f313e9408bb58e312b2.js",
+      "path---index-1f313e9408bb58e312b2.js.map"
     ],
     "path---head-first-js-chap-2": [
       "path---head-first-js-chap-2-b101c5dcf01cfd6d5207.js",
@@ -53,8 +53,8 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-4e98a79f4e3f58fbd9e0.js",
-      "commons-4e98a79f4e3f58fbd9e0.js.map"
+      "commons-bbbc71fdbf23d1ca1dd6.js",
+      "commons-bbbc71fdbf23d1ca1dd6.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -69,9 +69,9 @@
       "path---principle-of-beautiful-web-design-1-1b7a4865c31a3402ffa3.js.map"
     ],
     "app": [
-      "app-2dd9514cbd2674201d4f.js",
+      "app-00ba0031e190245435b5.js",
       "build-js-styles.css",
-      "app-2dd9514cbd2674201d4f.js.map",
+      "app-00ba0031e190245435b5.js.map",
       "build-js-styles.css.map"
     ],
     "path---why-i-write": [
@@ -83,8 +83,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---modern-react-with-redux-section-2-lecture-29-33": [
-      "path---modern-react-with-redux-section-2-lecture-29-33-b2b83d8723ad1919378f.js",
-      "path---modern-react-with-redux-section-2-lecture-29-33-b2b83d8723ad1919378f.js.map"
+      "path---modern-react-with-redux-section-2-lecture-29-33-2bd714e5ccb6c3d15ed5.js",
+      "path---modern-react-with-redux-section-2-lecture-29-33-2bd714e5ccb6c3d15ed5.js.map"
     ]
   }
 }
