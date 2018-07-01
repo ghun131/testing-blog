@@ -1,28 +1,52 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-c2f68a042e5341a79307.js",
-      "component---src-pages-index-js-c2f68a042e5341a79307.js.map"
+      "component---src-pages-index-js-1e9783ba85f6d516c15f.js",
+      "component---src-pages-index-js-1e9783ba85f6d516c15f.js.map"
+    ],
+    "path---wikipedia-viewer": [
+      "path---wikipedia-viewer-1699bbbffab23ab713b0.js",
+      "path---wikipedia-viewer-1699bbbffab23ab713b0.js.map"
+    ],
+    "path---head-first-js-chap-3": [
+      "path---head-first-js-chap-3-d1c49f57b065e0fa32d3.js",
+      "path---head-first-js-chap-3-d1c49f57b065e0fa32d3.js.map"
+    ],
+    "path---random-quote-machine": [
+      "path---random-quote-machine-85d675d7cf70c6fab8ae.js",
+      "path---random-quote-machine-85d675d7cf70c6fab8ae.js.map"
     ],
     "path---": [
       "path----26697759d604f3f1d30a.js",
       "path----26697759d604f3f1d30a.js.map"
     ],
+    "path---head-first-js-chap-4": [
+      "path---head-first-js-chap-4-0499e9e6b1a6aad95ab2.js",
+      "path---head-first-js-chap-4-0499e9e6b1a6aad95ab2.js.map"
+    ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-226d9463fd32e4769899.js",
       "component---src-templates-blog-post-js-226d9463fd32e4769899.js.map"
     ],
-    "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-6b8541c5b86f8ae6c4a0.js",
-      "component---src-layouts-index-js-6b8541c5b86f8ae6c4a0.js.map"
+    "path---ownego-exercise": [
+      "path---ownego-exercise-4e9b06a8e6b3cc522025.js",
+      "path---ownego-exercise-4e9b06a8e6b3cc522025.js.map"
     ],
-    "path---page-2": [
-      "path---page-2-a0e39f21c11f6a62c5ab.js",
-      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-c70de83f713433a2af99.js",
+      "component---src-layouts-index-js-c70de83f713433a2af99.js.map"
+    ],
+    "path---principle-of-beautiful-web-design-day-7": [
+      "path---principle-of-beautiful-web-design-day-7-aeb36334df4ea84a4c0c.js",
+      "path---principle-of-beautiful-web-design-day-7-aeb36334df4ea84a4c0c.js.map"
     ],
     "path---index": [
-      "path---index-d095f4817dffd17ef5b9.js",
-      "path---index-d095f4817dffd17ef5b9.js.map"
+      "path---index-a7851da1eff7c0ca7c74.js",
+      "path---index-a7851da1eff7c0ca7c74.js.map"
+    ],
+    "path---head-first-js-chap-2": [
+      "path---head-first-js-chap-2-b101c5dcf01cfd6d5207.js",
+      "path---head-first-js-chap-2-b101c5dcf01cfd6d5207.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -36,14 +60,18 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-pages-page-2-js": [
-      "component---src-pages-page-2-js-1d4f0f19c1c44398ab65.js",
-      "component---src-pages-page-2-js-1d4f0f19c1c44398ab65.js.map"
+    "path---local-weather-app": [
+      "path---local-weather-app-106b7f352530f14ad147.js",
+      "path---local-weather-app-106b7f352530f14ad147.js.map"
+    ],
+    "path---principle-of-beautiful-web-design-1": [
+      "path---principle-of-beautiful-web-design-1-1b7a4865c31a3402ffa3.js",
+      "path---principle-of-beautiful-web-design-1-1b7a4865c31a3402ffa3.js.map"
     ],
     "app": [
-      "app-c40c298383af5ebd09cd.js",
+      "app-2dd9514cbd2674201d4f.js",
       "build-js-styles.css",
-      "app-c40c298383af5ebd09cd.js.map",
+      "app-2dd9514cbd2674201d4f.js.map",
       "build-js-styles.css.map"
     ],
     "path---why-i-write": [
@@ -53,6 +81,10 @@
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---modern-react-with-redux-section-2-lecture-29-33": [
+      "path---modern-react-with-redux-section-2-lecture-29-33-b2b83d8723ad1919378f.js",
+      "path---modern-react-with-redux-section-2-lecture-29-33-b2b83d8723ad1919378f.js.map"
     ]
   }
 }
