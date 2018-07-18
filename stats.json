@@ -60,6 +60,10 @@
       "component---src-layouts-index-js-c70de83f713433a2af99.js",
       "component---src-layouts-index-js-c70de83f713433a2af99.js.map"
     ],
+    "path---udemy-react-the-complete-guide-5": [
+      "path---udemy-react-the-complete-guide-5-93051881ec70defc2ca0.js",
+      "path---udemy-react-the-complete-guide-5-93051881ec70defc2ca0.js.map"
+    ],
     "path---principle-of-beautiful-web-design-day-7": [
       "path---principle-of-beautiful-web-design-day-7-aeb36334df4ea84a4c0c.js",
       "path---principle-of-beautiful-web-design-day-7-aeb36334df4ea84a4c0c.js.map"
@@ -68,9 +72,13 @@
       "path---head-first-js-chap-10-first-class-function-1-18d1d01c8aa58f231186.js",
       "path---head-first-js-chap-10-first-class-function-1-18d1d01c8aa58f231186.js.map"
     ],
+    "path---udemy-react-the-complete-guide-3": [
+      "path---udemy-react-the-complete-guide-3-39efc66fc6da6c5a0c69.js",
+      "path---udemy-react-the-complete-guide-3-39efc66fc6da6c5a0c69.js.map"
+    ],
     "path---index": [
-      "path---index-f7446e2f2deacadb38aa.js",
-      "path---index-f7446e2f2deacadb38aa.js.map"
+      "path---index-4f121ead381bd640bc0b.js",
+      "path---index-4f121ead381bd640bc0b.js.map"
     ],
     "path---head-first-js-chap-2": [
       "path---head-first-js-chap-2-b101c5dcf01cfd6d5207.js",
@@ -84,9 +92,21 @@
       "commons-bbbc71fdbf23d1ca1dd6.js",
       "commons-bbbc71fdbf23d1ca1dd6.js.map"
     ],
+    "path---udemy-react-the-complete-guide-2": [
+      "path---udemy-react-the-complete-guide-2-be063761913d7f7ea191.js",
+      "path---udemy-react-the-complete-guide-2-be063761913d7f7ea191.js.map"
+    ],
+    "path---udemy-react-the-complete-guide-6": [
+      "path---udemy-react-the-complete-guide-6-765cb78cbea173c89cb2.js",
+      "path---udemy-react-the-complete-guide-6-765cb78cbea173c89cb2.js.map"
+    ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---udemy-react-the-complete-guide-1": [
+      "path---udemy-react-the-complete-guide-1-3e35bda9c6d36f3b5d8e.js",
+      "path---udemy-react-the-complete-guide-1-3e35bda9c6d36f3b5d8e.js.map"
     ],
     "path---quy-tac": [
       "path---quy-tac-a66bb83c877001d6f0e8.js",
@@ -109,10 +129,14 @@
       "path---principle-of-beautiful-web-design-1-1b7a4865c31a3402ffa3.js.map"
     ],
     "app": [
-      "app-c6d9481ffd7cc4448e2a.js",
+      "app-0a2b5f57e5a56157b18a.js",
       "build-js-styles.css",
-      "app-c6d9481ffd7cc4448e2a.js.map",
+      "app-0a2b5f57e5a56157b18a.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---udemy-react-the-complete-guide-4": [
+      "path---udemy-react-the-complete-guide-4-8c331c691859bf2683e9.js",
+      "path---udemy-react-the-complete-guide-4-8c331c691859bf2683e9.js.map"
     ],
     "path---why-i-write": [
       "path---why-i-write-7c2afd43d835fb84f435.js",
