@@ -1,6 +1,6 @@
 ---
 path: "/udemy-react-the-complete-guide2"
-date: "2018-11-07"
+date: "2018-07-11"
 title: "Udemy React the complete guide second day"
 ---
 
