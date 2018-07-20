@@ -5,8 +5,8 @@
       "path---fcc-product-landing-page-project-50ef63ba1779e024fa60.js.map"
     ],
     "path---wikipedia-viewer": [
-      "path---wikipedia-viewer-1699bbbffab23ab713b0.js",
-      "path---wikipedia-viewer-1699bbbffab23ab713b0.js.map"
+      "path---wikipedia-viewer-319cdca00ac5d867901e.js",
+      "path---wikipedia-viewer-319cdca00ac5d867901e.js.map"
     ],
     "path---head-first-js-chap-3": [
       "path---head-first-js-chap-3-d1c49f57b065e0fa32d3.js",
@@ -57,8 +57,8 @@
       "path---ownego-exercise-4e9b06a8e6b3cc522025.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-c70de83f713433a2af99.js",
-      "component---src-layouts-index-js-c70de83f713433a2af99.js.map"
+      "component---src-layouts-index-js-6d227269ca978cdeb2f7.js",
+      "component---src-layouts-index-js-6d227269ca978cdeb2f7.js.map"
     ],
     "path---udemy-react-the-complete-guide-5": [
       "path---udemy-react-the-complete-guide-5-a0544f80c148aa86119f.js",
@@ -77,8 +77,8 @@
       "path---udemy-react-the-complete-guide-3-9b7c6db10c83b6698796.js.map"
     ],
     "path---index": [
-      "path---index-f9be9a18f775656dff5f.js",
-      "path---index-f9be9a18f775656dff5f.js.map"
+      "path---index-58b1987c7741a1aa9970.js",
+      "path---index-58b1987c7741a1aa9970.js.map"
     ],
     "path---head-first-js-chap-2": [
       "path---head-first-js-chap-2-b101c5dcf01cfd6d5207.js",
@@ -104,6 +104,10 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---udemy-react-the-complete-guide-8": [
+      "path---udemy-react-the-complete-guide-8-3aac9a5878fb8c04293e.js",
+      "path---udemy-react-the-complete-guide-8-3aac9a5878fb8c04293e.js.map"
+    ],
     "path---udemy-react-the-complete-guide-1": [
       "path---udemy-react-the-complete-guide-1-7afe7bf38ac2317985b1.js",
       "path---udemy-react-the-complete-guide-1-7afe7bf38ac2317985b1.js.map"
@@ -120,6 +124,10 @@
       "component---src-pages-index-jsx-1e9783ba85f6d516c15f.js",
       "component---src-pages-index-jsx-1e9783ba85f6d516c15f.js.map"
     ],
+    "path---udemy-react-the-complete-guide-7": [
+      "path---udemy-react-the-complete-guide-7-ac85b45a55a692f8a09d.js",
+      "path---udemy-react-the-complete-guide-7-ac85b45a55a692f8a09d.js.map"
+    ],
     "path---head-first-js-chap-11-anonymous-functions-scopes-closures": [
       "path---head-first-js-chap-11-anonymous-functions-scopes-closures-4f2ae5cbddc3fd920ca1.js",
       "path---head-first-js-chap-11-anonymous-functions-scopes-closures-4f2ae5cbddc3fd920ca1.js.map"
@@ -129,9 +137,9 @@
       "path---principle-of-beautiful-web-design-1-1b7a4865c31a3402ffa3.js.map"
     ],
     "app": [
-      "app-ff91cc8ee1eacfa7d610.js",
+      "app-457975b0904b26d57246.js",
       "build-js-styles.css",
-      "app-ff91cc8ee1eacfa7d610.js.map",
+      "app-457975b0904b26d57246.js.map",
       "build-js-styles.css.map"
     ],
     "path---udemy-react-the-complete-guide-4": [
