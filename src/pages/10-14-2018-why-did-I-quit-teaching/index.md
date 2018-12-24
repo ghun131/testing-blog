@@ -1,0 +1,12 @@
+---
+path: "/why-did-I-quit-teaching"
+date: "2018-10-14"
+title: "My thoughts about teaching English"
+---
+My situation right now is on the verge of pushing me to programming and I want to have closure with my past. So this is my goodbye I guess. But there are few questions that I need to answer.
+**Do I hate teaching?**
+I don't particularly believe that teaching is a noble job as much as producing food although I believe teaching is a very mentally demanding occupation. In order to answer this question, I must state clearly what I believe what a good teacher is.
+Firstly, the teacher must be the one who understand well the subject that he teaches. He must fully grasp the idea behind a theorem or laws that he is going to explain to his students. He might be a very dedicated theorist or an emperical professional. His lessons should be highly accurate or else he might risk distorting the world view of the students.
+Secondly, he must be good at explain things. And then design a programme for his students to work on the problems around the subject, then keep track and assess their performance. 
+Finally one aspect that I had been quite blind to this is to control or to change people. Students, especially young children are not perfect and they tend to resist changing. Whereas learning is a quite painful process of changing. It might either be updating their outdated knowledge and skills or giving up their states of blissfully ignorant. That's why learning can be painful. To be able to lead people through that painful process, one might need to be malnipulative, charming as well as strict and forceful.
+*I love explaining things for people or thoroughly understand a subject especially if it is useful and I can do many things with it, but I am not quite good at manipulating people. I also enjoy the respect that people give me when they are my students. But the meager pay is very unacceptable and my weakness is catastrophic for my future when I want to scale. My lacking of background and qualification doesn't help my situation. The bureacracy is such a bitch. The happiness of helping other people achieve their goals are not enough for me to console myself with these difficulty. That's why I quit*
